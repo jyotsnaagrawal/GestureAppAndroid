@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gesture Jyotsna</string>
+    <string name="gesture_on_down">Gesture Detected: onDown</string>
+    <string name="gesture_on_show_press">Gesture Detected: onShowPress</string>
+    <string name="gesture_on_single_tap_up">Gesture Detected: onSingleTapUp</string>
+    <string name="gesture_on_scroll">Gesture Detected: onScroll</string>
+    <string name="gesture_on_long_press">Gesture Detected: onLongPress</string>
+    <string name="gesture_on_fling">Gesture Detected: onFling</string>
+    <string name="gesture_on_double_tap">Gesture Detected: onDoubleTap</string>
+    <string name="gesture_on_double_tap_event">Gesture Detected: onDoubleTapEvent</string>
+    <string name="gesture_on_single_tap_confirmed">Gesture Detected: onSingleTapConfirmed</string>
+</resources>

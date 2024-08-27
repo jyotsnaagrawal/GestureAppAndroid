@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- Backup rules go here -->
+        <!-- Example: <include domain="file" path="."/> -->
+        <!-- Example: <exclude domain="sharedpref" path=".*"/> -->
+    </cloud-backup>
+
+    <!-- Uncomment and customize the following section if needed
+    <device-transfer>
+        <include domain="file" path="."/>
+        <exclude domain="sharedpref" path=".*"/>
+    </device-transfer>
+    -->
+</data-extraction-rules>
